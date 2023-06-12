@@ -1,0 +1,153 @@
+/* COLORES
+
+.color0 { #007cba };
+.color1 { #98d8e8 };
+.color2 { #b2e2ee };
+.color3 { #ccecf4 };
+.color0{#e5f5f9};
+.color5 { #ffffff }; */
+
+body{
+    background: linear-gradient(
+       to right,#ccecf4,#ffffff
+    );
+}
+.headerClass{
+    margin-top: 4%;
+    padding: auto;
+    text-align: center;
+    background-color: #98d8e8;
+    height: 100px;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 25px;
+}
+
+h1{
+    padding-top: 1%;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.botoon{
+    background-color: #007cba;
+    width: 40%;
+    border-radius: 9px;
+    font-weight: bold;
+}
+
+  
+
+
+/* LOGIN */
+
+
+
+.alertError{
+    background-color: #ff0000c4;
+    color: #ffffff;
+    border-radius: 20px;
+    height: 25px;
+}
+
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+.LOGIN{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align:center;
+}
+
+.iconLogin{
+    float: inline-end;
+    margin-top: 5%;
+    margin-left: 3%;
+    
+}
+
+
+.ajusteTexto{
+    color: #007cba;
+}
+
+.helpLogin{
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 4%;
+    border-radius: 50px;
+}
+
+.imagen{
+    text-align:center;
+    margin-top: 4%;
+}
+
+.footerLogin{
+    text-align:center;
+    background-color: #007cba;
+    color: #ffffff;
+    height: 70px;
+}
+
+.bfooterLogin{
+    margin-top: 2%;
+}
+
+.ivanoshka{
+    color: #b2e2ee;
+    font-size: 20px;
+}
+
+/* Home */
+
+.navBarColor{
+    background-color: #007cba;
+}
+
+.alertExito{
+    background-color: #56ff3fc4;
+    color: #ffffff;
+    border-radius: 20px;
+   width: 350px;
+   margin-bottom: 20px;
+}
+
+.botonEquis{
+    border-radius: 15px;
+    background-color: #56ff3fc4;
+    color: #ffffff;
+    margin-left: 30%;
+}
+
+.h1titulo{
+    text-align: center;
+}
+
+.tituloPrincipal{
+    color: #007cba;
+}
+
+.divIcon{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+
+.bTextoMain{
+    background-color: #007cba;
+}
+
+/*MAIN*/
+.main{
+    background-color: brown;
+}
+
+/*ASIDE*/
+.aside{
+    background-color: blueviolet;
+}
